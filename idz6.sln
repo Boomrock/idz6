@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "idz6", "idz6\idz6.csproj", "{73EC0B0E-6876-4FB9-9E36-55D27D8179CA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "idz6", "..\..\..\source\repos\idz6\idz6\idz6.csproj", "{73EC0B0E-6876-4FB9-9E36-55D27D8179CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
